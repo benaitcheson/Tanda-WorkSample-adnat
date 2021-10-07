@@ -5,6 +5,8 @@ Rails.application.routes.draw do
   root to: 'user#home'
 
   get 'user/home'
+
+  
  
   # get "/users/sign_in", to: "user#sign_in", as: :sign_in
 

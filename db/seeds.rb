@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+# users = User.create([{ email: 'admin1@admin.com'}, {organisationid: 'abc'}, {name: 'John Smith'}])
+
+# organisation = Organisation.create([{name: 'abc'}, {hourlyrate: '10'}])
+
+# shift = Shift.create(userid: users.first)
