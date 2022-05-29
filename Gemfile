@@ -58,7 +58,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # My own gems for this project
 gem 'devise'
-gem 'react-rails'
+gem "react_on_rails", "~> 6"
 
 group :development, :test do
      gem 'rspec-rails', '~> 5.0.0'
